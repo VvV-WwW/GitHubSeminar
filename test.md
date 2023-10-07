@@ -15,3 +15,4 @@
 
 > git log --graph - показ древа 
 > Git log --oneline - коротенький журнал 
+ ~~git init - инициализация~~
