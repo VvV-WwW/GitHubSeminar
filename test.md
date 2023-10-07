@@ -16,3 +16,4 @@
 > git log --graph - показ древа 
 > Git log --oneline - коротенький журнал 
 ~~git log- вывод истории~~
+> git branch -d - удаление ветки 
